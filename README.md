@@ -3,7 +3,7 @@
 
 This repository provides the analysis and visualization scripts associated with the manuscript:
 
-**eIF5A K49 acetylation controls the tachyzoite–bradyzoite transition of the zoonotic parasite *Toxoplasma gondii***
+**eIF5A K49 acetylation-mediated adaptive translational pausing controls the tachyzoite–bradyzoite transition in the zoonotic parasite *Toxoplasma gondii***
 
 ## Authors
 
